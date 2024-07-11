@@ -51,7 +51,7 @@
 
 <br><br>
 
-<div>
+<div style={display:"flex"}>
   
 <img src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshita184rawat&" alt="harshita184rawat" />
