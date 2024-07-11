@@ -9,15 +9,13 @@
 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
 <div align="left">
- <a href="#" ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a> 
-  <a href="" disable ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-   <a href="">  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /></a>
-   <a href="">  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+   <a href="https://www.linkedin.com/in/harshita-rawat-625b66222/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
-   <a href="">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
-   <a href="">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+  <a href="mailto:harshita.reenu184@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+   <a href="https://x.com/Harshit82527744">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /></a>
+</a></a>
+  <a href="https://www.youtube.com/channel/UCZ3ucSTT2bcKnhJADG8ILNA" ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a> 
+<a href="harshitarawat_">  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   
   
 </div>
@@ -29,17 +27,14 @@
  
 <br>
 <div>
-  
- <div>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita184rawat&show_icons=true&locale=en&layout=compact" alt="harshita184rawat" />
-- &nbsp; 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ReactJs 𝚊𝚗𝚍 backend 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.  <br>
-- &nbsp; 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 DevOps 𝚊𝚗𝚍 cloud computing. <br>
-- &nbsp;  👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita184rawat&show_icons=true&locale=en&layout=compact" alt="harshita184rawat" />
+- &nbsp; 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚁𝚎𝚊𝚌𝚝𝙹𝚜 𝚊𝚗𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.  <br>
+- &nbsp; 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝚌𝚕𝚘𝚞𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐. <br>
+- &nbsp;  👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜.<br>
 - &nbsp; 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
-- &nbsp; 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜. <br>
-- &nbsp; ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜. <br>
-    
-  </div>
+- &nbsp; 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝚂𝚑𝚎/𝙷𝚎𝚛. <br>
+- &nbsp; ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙸𝚗 𝙴𝚟𝚎𝚛𝚢 𝙱𝚞𝚐: 𝙻𝚒𝚎𝚜 𝚝𝚑𝚎 𝙾𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢 𝚝𝚘 𝙻𝚎𝚊𝚛𝚗. <br>
+  
 </div>
 <br>
 
