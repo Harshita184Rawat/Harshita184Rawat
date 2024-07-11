@@ -8,7 +8,7 @@
   
 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
-<div align="right">
+<div align="left">
    <a href="https://www.linkedin.com/in/harshita-rawat-625b66222/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
   <a href="mailto:harshita.reenu184@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -21,23 +21,25 @@
 </div>
 
  </h1> 
+ <br>
 
   <h3 align="center">👋 I'm Harshita Rawat</h3>
 
  
 <br>
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita184rawat&show_icons=true&locale=en&layout=compact" alt="harshita184rawat" />
+  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita184rawat&show_icons=true&locale=en&layout=compact" alt="harshita184rawat" />
 - &nbsp; 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚁𝚎𝚊𝚌𝚝𝙹𝚜 𝚊𝚗𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.  <br>
 - &nbsp; 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝚌𝚕𝚘𝚞𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐. <br>
 - &nbsp;  👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜.<br>
-- &nbsp; 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
+- &nbsp; 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐  <a href="https://topmate.io/harshita_rawat184/1082187/pay" color="black" ><b>𝚑𝚎𝚛𝚎</b></a> 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
 - &nbsp; 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝚂𝚑𝚎/𝙷𝚎𝚛. <br>
 - &nbsp; ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙸𝚗 𝙴𝚟𝚎𝚛𝚢 𝙱𝚞𝚐: 𝙻𝚒𝚎𝚜 𝚝𝚑𝚎 𝙾𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢 𝚝𝚘 𝙻𝚎𝚊𝚛𝚗. <br>
+
   
 </div>
 <br>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p >
   
@@ -53,7 +55,7 @@
 
 <div style={display:"flex"}>
   
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita184rawat&" alt="harshita184rawat" />
 
 </div>
@@ -73,9 +75,9 @@
 <br clear="both">
 
 ###
+<br>
 
-
-<h3 align="center">Let's Work</h3>
+<h3 align="center"><b>𝙻𝚎𝚝'𝚜 𝙲𝚘𝚍𝚎 𝚃𝚘𝚐𝚎𝚝𝚑𝚎𝚛</b></h3>
 
 
 <p>
