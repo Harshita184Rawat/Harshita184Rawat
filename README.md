@@ -8,7 +8,7 @@
   
 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
-<div align="left">
+<div align="right">
    <a href="https://www.linkedin.com/in/harshita-rawat-625b66222/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
   <a href="mailto:harshita.reenu184@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -53,7 +53,7 @@
 
 <div style={display:"flex"}>
   
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita184rawat&" alt="harshita184rawat" />
 
 </div>
