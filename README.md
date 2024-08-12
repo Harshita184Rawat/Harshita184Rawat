@@ -55,7 +55,7 @@
 
 <div style={display:"flex"}>
   
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=harshita184rawat&show_icons=true&locale=en" alt="harshita184rawat" />
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita184rawat&" alt="harshita184rawat" />
 
 </div>
